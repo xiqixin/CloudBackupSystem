@@ -12,7 +12,6 @@
 #define SERVER_PORT 9000
 #define SERVER_BACKUP_DIR SERVER_BASE_DIR"/list/"
 
-
 using namespace httplib;
 namespace bf = boost::filesystem;
 
